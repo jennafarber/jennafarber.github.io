@@ -23,7 +23,7 @@
 
 ### Weekly Assignments
     -WA1
-    jennafarber.github.io/wa/wa1.html
+    https://jennafarber.github.io/wa/wa1.html
     -WA2
     -WA3
     -WA4
