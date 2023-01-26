@@ -22,8 +22,8 @@
 - ICA15
 
 ### Weekly Assignments
-- [WA1](https://jennafarber.github.io/wa/wa1.html)
-- WA2
+- [WA1](wa/wa1.html)
+- [WA2](wa/wa2.html)
 - WA3
 - WA4
 - WA5
