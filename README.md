@@ -5,8 +5,8 @@
 - JS
 
 ### In-Class Assignments
-- [ICA1](https://docs.google.com/document/d/1aQcgTOyU_k1lktjLzULZl0jf73pedLmobLxWfVpS9Hk/edit?usp=sharing)
-- ICA2
+- [ICA1](ica/Copy%20of%20ICA1%20--%20How%20to%20Search%20-%20Jenna%20Farber%20(1).pdf)
+- [ICA2](ica/Copy%20of%20ICA2%20--%20Exploring%20Directory%20Structures%20(Week%202)%20-%20Jenna%20Farber.pdf)
 - ICA3
 - ICA4
 - ICA5
