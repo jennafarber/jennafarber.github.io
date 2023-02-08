@@ -8,7 +8,7 @@
 - [ICA1](ica/Copy%20of%20ICA1%20--%20How%20to%20Search%20-%20Jenna%20Farber%20(1).pdf)
 - [ICA2](ica/Copy%20of%20ICA2%20--%20Exploring%20Directory%20Structures%20(Week%202)%20-%20Jenna%20Farber.pdf)
 - ICA3
-- ICA4
+- [ICA4](ica/ica4.html)
 - ICA5
 - ICA6
 - ICA7
@@ -24,7 +24,7 @@
 ### Weekly Assignments
 - [WA1](wa/wa1.html)
 - [WA2](wa/wa2.html)
-- WA3
+- [WA3](wa/wa3.html)
 - WA4
 - WA5
 - WA6
