@@ -9,7 +9,7 @@
 - [ICA2](ica/Copy%20of%20ICA2%20--%20Exploring%20Directory%20Structures%20(Week%202)%20-%20Jenna%20Farber.pdf)
 - ICA3
 - [ICA4](ica/ica4.html)
-- ICA5
+- [ICA5](ica/ica5/ica5.html)
 - ICA6
 - ICA7
 - ICA8
