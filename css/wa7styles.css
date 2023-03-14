@@ -1,0 +1,72 @@
+html{
+    font-family: 'Courier New', Courier, monospace
+}
+    
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightpink;
+}
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:20px;
+    background-color: blueviolet;
+}
+nav a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color:black;
+}
+
+
+img{
+    width:30vw;
+    height: 30vh;
+    padding-top: 100px;
+}
+
+img:hover{
+    animation: spin;
+    animation: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes spin{
+    from{
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+#red-ball{
+    background-color: crimson;
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    position: absolute;
+    left:5vw;
+    top:0;
+}
+
+#red-ball{
+    animation: move;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes move{
+    from{
+        margin-bottom: 50%;
+        background-color: azure;
+    }
+    to{
+        margin-top: 50%;
+    }
+}

@@ -1,7 +1,7 @@
 # jennafarber.github.io
 ### Projects
-- HTML
-- CSS
+- [HTML](/html-midterm/page5.html)
+- [CSS](/wa/CSS.html)
 - JS
 
 ### In-Class Assignments
