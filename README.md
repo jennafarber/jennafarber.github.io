@@ -32,7 +32,7 @@
 - WA8
 - [WA9](wa/wa9.html)
 - WA10
-- WA11
+- [WA11](wa/wa11.html)
 - WA12
 - WA13
 - WA14
