@@ -1,0 +1,49 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+header {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.genres {
+  margin-bottom: 2rem;
+}
+
+.genre-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 2rem;
+  border: 2px solid #333;
+  border-radius: 0.5rem;
+  width: 40rem;
+  max-width: 90%;
+  margin: auto;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  font-size: 1.2rem;
+  padding: 1rem 2rem;
+  margin: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  background-color: #333;
+  color: white;
+}
+
+.button:hover {
+  background-color: #666;
+}
