@@ -33,6 +33,7 @@
 - [WA9](wa/wa9.html)
 - WA10
 - [WA11](wa/wa11.html)
+- [quiz 12](/ica/quiz12.html)
 - WA12
 - WA13
 - WA14
