@@ -34,7 +34,7 @@
 - WA10
 - [WA11](wa/wa11.html)
 - [quiz 12](/ica/quiz12.html)
-- WA12
+- [WA12](/wa/wa12.html)
 - WA13
 - WA14
 - WA15
