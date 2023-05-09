@@ -2,7 +2,7 @@
 ### Projects
 - [HTML](/html-midterm/page5.html)
 - [CSS](/wa/CSS.html)
-- JS
+- [JS](/JS%20Final/js.html)
 
 ### In-Class Assignments
 - [ICA1](ica/Copy%20of%20ICA1%20--%20How%20to%20Search%20-%20Jenna%20Farber%20(1).pdf)
