@@ -1,13 +1,10 @@
-// app.js
-  
-// Complete logic of game inside this function
 const game = () => {
     let playerScore = 0;
     let computerScore = 0;
     let moves = 0;
   
   
-    // Function to 
+    // Function 
     const playGame = () => {
         const rockBtn = document.querySelector('.rock');
         const paperBtn = document.querySelector('.paper');
@@ -15,7 +12,7 @@ const game = () => {
         const playerOptions = [rockBtn,paperBtn,scissorBtn];
         const computerOptions = ['rock','paper','scissors']
           
-        // Function to start playing game
+        // Function to behin  game
         playerOptions.forEach(option => {
             option.addEventListener('click',function(){
   
@@ -27,10 +24,10 @@ const game = () => {
                 const choiceNumber = Math.floor(Math.random()*3);
                 const computerChoice = computerOptions[choiceNumber];
   
-                // Function to check who wins
+                // Function to see who wins
                 winner(this.innerText,computerChoice)
                   
-                // Calling gameOver function after 10 moves
+                // Ending game after 10 moves
                 if(moves == 10){
                     gameOver(playerOptions,movesLeft);
                 }
@@ -39,7 +36,7 @@ const game = () => {
           
     }
   
-    // Function to decide winner
+    // Function to choose winner
     const winner = (player,computer) => {
         const result = document.querySelector('.result');
         const playerScoreBoard = document.querySelector('.p-count');
@@ -123,10 +120,8 @@ const game = () => {
     }
   
   
-    // Calling playGame function inside game
     playGame();
       
 }
   
-// Calling the game function
 game();
